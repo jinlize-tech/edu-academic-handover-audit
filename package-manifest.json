@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-077",
+  "repository_name": "edu-academic-handover-audit",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-academic-handover-audit-v1.0.0.zip",
+  "sha256": "CE710679E239131FA5EE64DC8E9C7924169953931CBF7CD06C285FEC13C3F2C9",
+  "bytes": 4827,
+  "entries": [
+    "edu-academic-handover-audit/SKILL.md",
+    "edu-academic-handover-audit/references/DOMAIN_GUIDE.md",
+    "edu-academic-handover-audit/references/EXAMPLES.md",
+    "edu-academic-handover-audit/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:46:24.4706562+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

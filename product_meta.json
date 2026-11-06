@@ -1,0 +1,24 @@
+{
+  "number": 95,
+  "product_id": "JLZ-EDU-SK-077",
+  "chinese_name": "教务交接审计",
+  "english_name": "Academic Handover Audit",
+  "repository_name": "edu-academic-handover-audit",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-academic-handover-audit-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "交接清单、责任人、资料、学生/班级状态、风险事项和签收记录",
+  "main_output": "交接审计表、证据完整性、未闭环事项、风险等级和放行条件",
+  "package_entries": [
+    "edu-academic-handover-audit/SKILL.md",
+    "edu-academic-handover-audit/references/DOMAIN_GUIDE.md",
+    "edu-academic-handover-audit/references/EXAMPLES.md",
+    "edu-academic-handover-audit/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
