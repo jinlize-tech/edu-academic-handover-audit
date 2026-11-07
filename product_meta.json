@@ -6,19 +6,37 @@
   "repository_name": "edu-academic-handover-audit",
   "product_type": "Skill",
   "category": "08 校区标准化与多校区管理中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-academic-handover-audit-v1.0.0.zip",
+  "baseline_commit": "12b555fa51651bb96346c2419d71f2519e1590b7",
+  "package_path": "dist/edu-academic-handover-audit-v1.0.1.zip",
+  "previous_package_path": "dist/edu-academic-handover-audit-v1.0.0.zip",
+  "previous_package_sha256": "CE710679E239131FA5EE64DC8E9C7924169953931CBF7CD06C285FEC13C3F2C9",
   "calculator": false,
   "core_input": "交接清单、责任人、资料、学生/班级状态、风险事项和签收记录",
   "main_output": "交接审计表、证据完整性、未闭环事项、风险等级和放行条件",
+  "main_output_fields": [
+    "交接审计表",
+    "证据完整性",
+    "未闭环事项",
+    "风险等级和放行条件"
+  ],
   "package_entries": [
     "edu-academic-handover-audit/SKILL.md",
     "edu-academic-handover-audit/references/DOMAIN_GUIDE.md",
     "edu-academic-handover-audit/references/EXAMPLES.md",
-    "edu-academic-handover-audit/templates/OUTPUT_TEMPLATE.md"
+    "edu-academic-handover-audit/templates/OUTPUT_TEMPLATE.md",
+    "edu-academic-handover-audit/README.md",
+    "edu-academic-handover-audit/USAGE.md",
+    "edu-academic-handover-audit/LICENSE",
+    "edu-academic-handover-audit/THIRD_PARTY_NOTICES.md",
+    "edu-academic-handover-audit/scripts/validate_input.js"
   ]
 }
