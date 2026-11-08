@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在教务交接审计任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "交接清单": "标准合成场景｜教务交接审计的交接清单：已按合成业务口径准备",
+    "责任人": "标准合成场景｜教务交接审计的责任人：已按合成业务口径准备"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
